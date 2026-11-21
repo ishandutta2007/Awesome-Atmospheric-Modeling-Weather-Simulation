@@ -6,7 +6,7 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Atmospheric-Modeling-Weather-Simulation?style=social)](https://github.com/ishandutta2007/Awesome-Atmospheric-Modeling-Weather-Simulation/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Atmospheric-Modeling-Weather-Simulation?style=social)](https://github.com/ishandutta2007/Awesome-Atmospheric-Modeling-Weather-Simulation/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Atmospheric-Modeling-Weather-Simulation/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Atmospheric-Modeling-Weather-Simulation/blob/main/README.md#how-to-contribute)
@@ -65,9 +65,9 @@ The following table compares leading commercial and hosted weather platforms. En
 
 The following curated open-source tools power modern atmospheric sciences, mesoscale weather prediction, AI foundation weather modeling, and data pipelines. 
 
-> Repositories are ranked in descending order by **GitHub Star Count**. Star badges link directly to each repository's stargazers community.
+> Repositories are ranked in descending order by **GitHub Stars_Count**. Stars_Badges link directly to each repository's stargazers community.
 
-| Rank | Project & Repository | Stars | Category / Focus | Key Features |
+| Rank | Project & Repository | GitHub_Stars | Category / Focus | Key Features |
 | :---: | :--- | :---: | :--- | :--- |
 | 1 | **[GraphCast](https://github.com/google-deepmind/graphcast)** 🧠 | [![Stars](https://img.shields.io/github/stars/google-deepmind/graphcast?style=social&color=white)](https://github.com/google-deepmind/graphcast/stargazers) | Foundation AI Weather Model | Google DeepMind's state-of-the-art graph neural network (GNN) model producing 10-day global forecasts at 0.25° resolution in under 60 seconds on Google Cloud TPUs. |
 | 2 | **[Open-Meteo](https://github.com/open-meteo/open-meteo)** 🌐 | [![Stars](https://img.shields.io/github/stars/open-meteo/open-meteo?style=social&color=white)](https://github.com/open-meteo/open-meteo/stargazers) | Self-Hosted Weather Forecast API | Open-source Swift API aggregating national weather models (NOAA GFS/HRRR, ECMWF IFS, DWD ICON, MeteoFrance) with zero API keys required and sub-millisecond response caching. |
@@ -135,7 +135,7 @@ We welcome contributions from meteorologists, atmospheric researchers, and softw
 2. 🌿 **Create a feature branch**: `git checkout -b feature/add-meteorological-tool`
 3. 📝 **Add your entry**:
    - For **SaaS platforms**: Add to the table with starting pricing, specific free tier/trial limits, valuation/revenue scale, and link.
-   - For **Open-Source projects**: Include a star badge linking to the stargazers page (`https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white`), description, and sorted in descending order by star count.
+   - For **Open-Source projects**: Include a Stars_Badge linking to the stargazers page (`https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white`), description, and sorted in descending order by Stars_Count.
 4. 🚀 **Submit a Pull Request** with a concise description of why the tool is valuable for atmospheric modeling and weather simulation.
 
 ---
