@@ -4,11 +4,13 @@
 
 # 🌪️ Awesome Atmospheric Modeling & Weather Simulation 🛰️
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Atmospheric-Modeling-Weather-Simulation?style=social)](https://github.com/ishandutta2007/Awesome-Atmospheric-Modeling-Weather-Simulation/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Atmospheric-Modeling-Weather-Simulation/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Atmospheric-Modeling-Weather-Simulation/blob/main/README.md#how-to-contribute)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A curated index of Numerical Weather Prediction (NWP) physics engines, foundational AI weather forecasting models, enterprise meteorological APIs, and open-source atmospheric simulation software.**
 
@@ -27,6 +29,8 @@
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🧩 Building Modern Weather Workflows](#-building-modern-weather-workflows)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
 - [⚠️ Disclaimer](#️-disclaimer)
 
 ---
@@ -133,6 +137,22 @@ We welcome contributions from meteorologists, atmospheric researchers, and softw
    - For **SaaS platforms**: Add to the table with starting pricing, specific free tier/trial limits, valuation/revenue scale, and link.
    - For **Open-Source projects**: Include a star badge linking to the stargazers page (`https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white`), description, and sorted in descending order by star count.
 4. 🚀 **Submit a Pull Request** with a concise description of why the tool is valuable for atmospheric modeling and weather simulation.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for visiting and supporting this ecosystem initiative! If you find this curated collection of atmospheric modeling tools and weather simulation platforms valuable for your research, projects, or organization, please consider:
+
+- ⭐ **Starring this repository** to help others discover it across GitHub.
+- 🍴 **Forking and sharing** it with fellow meteorologists, climate researchers, and developers.
+- ☕ **Supporting the creator**: If this work has helped you, you can show your support and buy a coffee through the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007). Every bit of support is deeply appreciated and fuels continued open-source curation!
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Atmospheric-Modeling-Weather-Simulation&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Atmospheric-Modeling-Weather-Simulation&type=date&legend=top-left)
 
 ---
 
